@@ -1,6 +1,9 @@
 # R07AIprogDemo
 高校生向け AIを使ったデモ
 
+## 投影資料
+https://jc21-my.sharepoint.com/:p:/g/personal/t_yoshizawa_jc-21_jp/EU7hATQ-w9NNrDb0OETOV2sBPESaXrjjjHhPkDJJWPgkxg?e=B46L8n
+
 ## デモ一覧
 
 ### 1. Hello Gemini
